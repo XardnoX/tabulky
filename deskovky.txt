@@ -1,0 +1,4 @@
+monopoly;true;2
+Dostihy a sázky;true;3
+šachy;false;1
+člověče nezlob se;true;1
